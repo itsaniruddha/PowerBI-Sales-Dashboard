@@ -14,3 +14,5 @@ Hence, by using such tools and technology one can make data driven decisions whi
 So, in this project we will help a company make its own sales related dashboard using PowerBI.
 
 ![Screenshot 2022-06-12 002506](https://user-images.githubusercontent.com/51242225/173204541-044d14a1-7c23-4e61-99df-48fd86852d96.jpg)
+
+Credits to Dhaval Patel sir for helping me make this project
